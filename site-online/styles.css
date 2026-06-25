@@ -452,6 +452,22 @@ table {
   background: #375f9a;
 }
 
+.method-card--feedback .method-card__number {
+  background: #8a5a44;
+}
+
+.method-card--whitmore .method-card__number {
+  background: #5b4f9e;
+}
+
+.method-card--portfolio .method-card__number {
+  background: #2f6f67;
+}
+
+.method-card--rubber .method-card__number {
+  background: #9c4a6d;
+}
+
 .method-card__tagline {
   margin-top: 0.3rem;
   color: var(--muted);
@@ -614,6 +630,14 @@ th {
   .method-card__support-grid,
   .hero__metrics {
     grid-template-columns: 1fr;
+
+  .goal-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .activity-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
   }
 
   .topbar {
@@ -645,8 +669,8 @@ th {
   .activity-card,
   .prompt-box,
   .download-card,
-  .method-card__header,
-  .method-card__grid {
+  .method-card__grid,
+  .method-card__header {
     padding-left: 1rem;
     padding-right: 1rem;
   }
