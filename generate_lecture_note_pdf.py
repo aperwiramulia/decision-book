@@ -15,8 +15,8 @@ from reportlab.platypus import Image, PageBreak, Paragraph, SimpleDocTemplate, S
 
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_SRC = ROOT / "class-notes-first-three-methods.md"
-DEFAULT_DST = ROOT / "class-notes-first-three-methods.pdf"
+DEFAULT_SRC = ROOT / "class-notes-seven-methods.md"
+DEFAULT_DST = ROOT / "class-notes-seven-methods.pdf"
 
 
 def format_inline(text: str) -> str:
