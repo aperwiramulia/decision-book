@@ -1,14 +1,16 @@
-# Class Notes: Three Decision-Making Methods
+# Class Notes: Seven Decision-Making Methods
 
-These notes are based on the first three uploaded methods from *The Decision Book* by Mikael Krogerus and Roman Tschappeler. They are rewritten as teaching notes for classroom use, with short examples that make each method easier to apply.
+These notes summarize seven methods from *The Decision Book* as practical classroom material. The goal is to help students make clearer decisions with simple frameworks and applied examples.
 
 ## Learning Goals
 
 By the end of the lesson, students should be able to:
 
-- distinguish between urgency and importance
-- identify internal and external factors in a decision
-- evaluate a portfolio of products or projects based on growth and relative strength
+- distinguish urgency from importance
+- identify internal and external factors in a decision context
+- evaluate project or product portfolios by value and feasibility
+- improve decisions through reflection and coaching
+- manage pressure and performance trade-offs during implementation
 
 ---
 
@@ -16,12 +18,7 @@ By the end of the lesson, students should be able to:
 
 ### Main idea
 
-The Eisenhower Matrix helps us decide what to do first by separating tasks into two dimensions:
-
-- important vs. not important
-- urgent vs. not urgent
-
-The point of the method is not only to handle emergencies, but also to protect time for important work before it turns into a crisis.
+The Eisenhower Matrix separates tasks by **importance** and **urgency** so priorities become explicit.
 
 ### The four boxes
 
@@ -29,14 +26,6 @@ The point of the method is not only to handle emergencies, but also to protect t
 2. **Important but not urgent**: schedule it.
 3. **Urgent but not important**: delegate it if possible.
 4. **Not urgent and not important**: reduce, postpone, or remove it.
-
-### How to use it
-
-1. Write down all current tasks.
-2. Ask two questions for each task: Is it important? Is it urgent?
-3. Place each task in the correct quadrant.
-4. Act according to the quadrant.
-5. Review the "important but not urgent" box carefully, because this is where long-term progress usually happens.
 
 ### Figure
 
@@ -46,36 +35,15 @@ The point of the method is not only to handle emergencies, but also to protect t
 
 ### Simple application
 
-**Situation:** A student has five tasks this week.
+**Situation:** A student has weekly academic and project tasks.
 
-- Submit an assignment due tonight
-- Prepare for next week's midterm
-- Reply to a class WhatsApp message asking for the classroom number
-- Watch random videos online
-- Meet the project group to plan the final presentation
-
-**Possible classification:**
-
-- **Important and urgent:** submit the assignment due tonight
-- **Important but not urgent:** prepare for the midterm; plan the final presentation
-- **Urgent but not important:** reply to the classroom message
-- **Not urgent and not important:** watch random videos online
-
-**Decision:** The student should complete the assignment first, set a study block for the midterm, schedule the group meeting, answer the simple message quickly, and avoid spending prime study time on low-value distractions.
+**Decision:** Finish urgent-important deliverables first, schedule exam preparation, handle quick messages efficiently, and remove low-value distractions.
 
 ### Application figure
 
 ![Eisenhower Matrix simple application](application-figures/eisenhower-student-application.png)
 
-*Figure 1A. Example application of the Eisenhower Matrix to a student's weekly tasks, showing how assignment submission, exam preparation, routine messages, and distractions can be distributed across the four quadrants.*
-
-### Teaching point
-
-Students often confuse urgency with value. A task can feel pressing without meaningfully helping their long-term goals.
-
-### Quick discussion question
-
-Which tasks in student life are usually "important but not urgent," and why are they often neglected?
+*Figure 1A. Example application of the Eisenhower Matrix to a student's weekly tasks.*
 
 ---
 
@@ -83,69 +51,30 @@ Which tasks in student life are usually "important but not urgent," and why are 
 
 ### Main idea
 
-SWOT Analysis is a structured way to understand a situation before choosing an action. It looks at four areas:
+SWOT Analysis maps a decision situation into:
 
-- **Strengths**: internal advantages
-- **Weaknesses**: internal limitations
-- **Opportunities**: external chances to improve or grow
-- **Threats**: external risks or obstacles
-
-This method is useful because many bad decisions come from an unclear understanding of the real situation.
-
-### How to use it
-
-1. Define the project, decision, or problem clearly.
-2. List the internal strengths.
-3. List the internal weaknesses.
-4. List the external opportunities.
-5. List the external threats.
-6. Use the four lists to decide what to strengthen, fix, pursue, or protect against.
+- **Strengths** (internal advantages)
+- **Weaknesses** (internal limitations)
+- **Opportunities** (external chances)
+- **Threats** (external risks)
 
 ### Figure
 
 ![SWOT Analysis diagram](rendered/the_swot_analysis_p2.png)
 
-*Figure 2. The SWOT framework organizes internal factors and external conditions to support structured situational analysis and strategic choice.*
+*Figure 2. The SWOT framework organizes internal factors and external conditions to support structured situational analysis and strategy.*
 
 ### Simple application
 
-**Situation:** A student wants to start a small online snack business for the campus community.
+**Situation:** A student plans a campus snack business.
 
-**Strengths**
-
-- good at promoting products on social media
-- already has friends who may become first customers
-
-**Weaknesses**
-
-- limited starting capital
-- no experience managing inventory
-
-**Opportunities**
-
-- many students stay on campus until evening and need quick food options
-- online delivery through campus groups is easy to organize
-
-**Threats**
-
-- existing food sellers already have loyal buyers
-- ingredient prices may rise suddenly
-
-**Decision:** The student should start with a small menu, use social media for promotion, track stock carefully, and focus on a niche such as late-evening snack delivery.
+**Decision:** Start with a focused menu, leverage social media strengths, manage inventory risk, and target a clear demand niche.
 
 ### Application figure
 
 ![SWOT simple application](application-figures/swot-student-business-application.png)
 
-*Figure 2A. Example application of SWOT analysis to a student snack business, showing how internal capabilities and limitations interact with external opportunities and threats.*
-
-### Teaching point
-
-SWOT is most useful when students do not stop at listing items. The value comes from turning the list into strategy.
-
-### Quick discussion question
-
-How can a team use one strength to reduce one weakness or one threat?
+*Figure 2A. Example application of SWOT analysis to a student snack business.*
 
 ---
 
@@ -153,83 +82,143 @@ How can a team use one strength to reduce one weakness or one threat?
 
 ### Main idea
 
-The BCG Box is used to evaluate products, projects, or business units in a portfolio. It compares them using two dimensions:
+The BCG Box evaluates portfolios using:
 
 - market growth
 - relative market share
 
-The method helps decision-makers think about where to invest, where to maintain support, and what may no longer deserve resources.
-
 ### The four categories
 
-1. **Stars**: high market share, high growth. These are strong positions in expanding markets, but they often need continued investment.
-2. **Cash Cows**: high market share, low growth. These usually generate steady returns and can support other activities.
-3. **Question Marks**: low market share, high growth. These have potential, but they need careful judgment because not all of them will succeed.
-4. **Dogs**: low market share, low growth. These usually offer weak returns unless there is another strategic reason to keep them.
-
-### How to use it
-
-1. List the products, services, or projects in a portfolio.
-2. Estimate their market growth.
-3. Estimate their relative share or competitive strength.
-4. Place each item in one of the four boxes.
-5. Decide whether to invest, maintain, test further, or phase out.
+1. **Stars**: high share, high growth.
+2. **Cash Cows**: high share, low growth.
+3. **Question Marks**: low share, high growth.
+4. **Dogs**: low share, low growth.
 
 ### Figure
 
 ![BCG Box diagram](rendered/the_BCG_box_p2.png)
 
-*Figure 3. The BCG Box maps portfolio items according to market growth and relative market share to inform resource allocation decisions.*
+*Figure 3. The BCG Box maps portfolio items according to market growth and relative market share to inform resource allocation.*
 
 ### Simple application
 
-**Situation:** A school cooperative sells four products.
+**Situation:** A school cooperative sells multiple products.
 
-- bottled water
-- school hoodies
-- reusable tumblers
-- printed phone charms
-
-**Possible classification:**
-
-- **Star:** reusable tumblers, because demand is growing and the cooperative is becoming well known for them
-- **Cash Cow:** bottled water, because it sells steadily every day in a mature market
-- **Question Mark:** school hoodies, because interest is growing but the cooperative is not yet a strong seller
-- **Dog:** printed phone charms, because demand is weak and sales are small
-
-**Decision:** Continue investing in tumblers, use bottled water profits to support operations, test whether hoodies can grow through better design or promotion, and consider stopping phone charm production if it adds little value.
+**Decision:** Invest in high-potential items, maintain stable earners, test uncertain opportunities, and phase out low-value products.
 
 ### Application figure
 
 ![BCG simple application](application-figures/bcg-school-coop-application.png)
 
-*Figure 3A. Example application of the BCG Box to a school cooperative product portfolio, positioning each product according to growth potential and relative strength.*
-
-### Teaching point
-
-The BCG Box is a prioritization tool, not a perfect truth machine. The quality of the result depends on how realistic the estimates are.
-
-### Quick discussion question
-
-Can a "question mark" become a "star"? What would need to happen?
+*Figure 3A. Example application of the BCG Box to a school cooperative product portfolio.*
 
 ---
 
-## Comparison of the Three Methods
+## 4. Feedback Analysis
+
+### Main idea
+
+Feedback Analysis improves decision quality by comparing **expected outcomes** with **actual outcomes**.
+
+### How to use it
+
+1. Record what result you expect before acting.
+2. Capture what actually happens.
+3. Identify gaps and assumptions.
+4. Define one improvement for the next cycle.
+
+### Simple application
+
+**Situation:** A team expected high attendance at an event but turnout was lower than planned.
+
+**Decision:** Review assumptions, adjust communication channels, and test a revised format in the next cycle.
+
+---
+
+## 5. The John Whitmore Model (GROW)
+
+### Main idea
+
+This coaching model structures decision dialogue through:
+
+1. **Goal**
+2. **Reality**
+3. **Options**
+4. **Will**
+
+### Simple application
+
+**Situation:** A student struggles to complete a thesis milestone.
+
+**Decision:** Clarify the goal, assess current constraints, choose realistic options, and commit to a dated weekly plan.
+
+---
+
+## 6. Project Portfolio Matrix
+
+### Main idea
+
+The Project Portfolio Matrix prioritizes multiple projects by combining **strategic value** and **implementation effort**.
+
+### Typical outcomes
+
+1. **Quick wins**: high value, low effort
+2. **Major bets**: high value, high effort
+3. **Fill-ins**: low value, low effort
+4. **Defer or stop**: low value, high effort
+
+### Simple application
+
+**Situation:** A department must select projects under a limited semester budget.
+
+**Decision:** Prioritize quick wins, stage major bets, and postpone low-value high-effort options.
+
+---
+
+## 7. Rubber Band Model
+
+### Main idea
+
+The Rubber Band Model views performance as tension between **current state** and **target state**. Productive stretch helps progress, but overstretch harms quality.
+
+### Practical signals
+
+1. Healthy stretch: focused effort and progress
+2. Warning zone: repeated errors and reduced concentration
+3. Overstretch: fatigue and low decision quality
+4. Recovery: workload reset and priority correction
+
+### Simple application
+
+**Situation:** A team faces high deadline pressure and starts making preventable mistakes.
+
+**Decision:** Re-sequence work, protect focus blocks, and include planned recovery intervals.
+
+---
+
+## Comparison of the Seven Methods
 
 | Method | Best used for | Main question |
 | --- | --- | --- |
 | Eisenhower Matrix | prioritizing tasks | What should be done now, scheduled, delegated, or dropped? |
-| SWOT Analysis | understanding a decision context | What are our internal and external advantages and risks? |
-| BCG Box | evaluating a portfolio | Where should we invest, maintain, test, or exit? |
+| SWOT Analysis | understanding context | What are the internal and external advantages and risks? |
+| BCG Box | portfolio evaluation | Where should resources be invested, maintained, tested, or reduced? |
+| Feedback Analysis | post-decision learning | What happened versus expectation, and what should change next? |
+| John Whitmore Model (GROW) | coaching and planning | What is the goal, current reality, options, and commitment? |
+| Project Portfolio Matrix | selecting projects under constraints | Which projects offer strongest value for feasible effort? |
+| Rubber Band Model | balancing pressure and resilience | How much stretch is productive before quality declines? |
 
-## Short Classroom Activity
+## Classroom Activity
 
-Divide students into three groups.
+Divide students into seven groups:
 
-- Group 1 uses the Eisenhower Matrix to organize a student's weekly tasks.
-- Group 2 uses SWOT Analysis for a student club event or small business idea.
-- Group 3 uses the BCG Box for four school products, programs, or projects.
+- Group 1: Eisenhower Matrix
+- Group 2: SWOT Analysis
+- Group 3: BCG Box
+- Group 4: Feedback Analysis
+- Group 5: John Whitmore Model
+- Group 6: Project Portfolio Matrix
+- Group 7: Rubber Band Model
 
 Ask each group to present:
 
@@ -237,6 +226,6 @@ Ask each group to present:
 2. what action they recommend
 3. what assumptions they made
 
-## Closing Idea for Students
+## Closing Idea
 
-Good decisions are rarely made by intuition alone. These methods help make thinking visible, structured, and discussable.
+Better decisions are not only about intuition. These methods make thinking visible, structured, and easier to evaluate together.

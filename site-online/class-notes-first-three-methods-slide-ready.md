@@ -1,22 +1,20 @@
-# Slide-Ready Notes: First Three Methods
+# Slide-Ready Notes: Seven Methods
 
-Based on the first three methods from *The Decision Book* by Mikael Krogerus and Roman Tschappeler.
+Based on seven methods from *The Decision Book* by Mikael Krogerus and Roman Tschappeler.
 
 ---
 
 ## Slide 1: Lesson Focus
 
-### Three decision tools
+### Seven decision tools
 
 - Eisenhower Matrix
 - SWOT Analysis
 - BCG Box
-
-### Lesson goal
-
-- organize tasks
-- understand a decision situation
-- evaluate products or projects
+- Feedback Analysis
+- John Whitmore Model (GROW)
+- Project Portfolio Matrix
+- Rubber Band Model
 
 ---
 
@@ -25,233 +23,150 @@ Based on the first three methods from *The Decision Book* by Mikael Krogerus and
 ### Core idea
 
 - separate tasks by importance and urgency
-- not everything urgent is important
-- protect time for important long-term work
-
-### Two questions
-
-- Is it important?
-- Is it urgent?
-
----
-
-## Slide 3: Eisenhower Matrix Quadrants
-
-### Four actions
-
-- Important + urgent: do it now
-- Important + not urgent: schedule it
-- Urgent + not important: delegate it
-- Not urgent + not important: do it later or drop it
+- protect important long-term work
 
 ### Figure
 
 ![Eisenhower Matrix diagram](rendered/the_einshower_matrix_p2.png)
 
-*Figure 1. The Eisenhower Matrix framework classifies tasks by urgency and importance to support priority setting and time allocation.*
-
 ---
 
-## Slide 4: Eisenhower Example
+## Slide 3: Eisenhower Example
 
-### Case
+### Case and decision
 
-A student must:
-
-- submit an assignment tonight
-- prepare for next week's midterm
-- answer a simple class message
-- watch random videos
-- meet the project group
-
-### Possible answers
-
-- Do now: submit assignment
-- Schedule: midterm study, project meeting
-- Delegate or handle quickly: class message
-- Reduce or remove: random videos
-
-### Main takeaway
-
-- important work should be planned before it becomes urgent
-
-### Application figure
+- classify student tasks across four quadrants
+- do urgent-important now
+- schedule important-not-urgent items
 
 ![Eisenhower Matrix simple application](application-figures/eisenhower-student-application.png)
 
-*Figure 1A. Example application of the Eisenhower Matrix to a student's weekly tasks, showing how assignment submission, exam preparation, routine messages, and distractions can be distributed across the four quadrants.*
-
 ---
 
-## Slide 5: SWOT Analysis
+## Slide 4: SWOT Analysis
 
 ### Core idea
 
-SWOT helps us understand a situation before choosing an action.
-
-### Four parts
-
-- Strengths: internal advantages
-- Weaknesses: internal limitations
-- Opportunities: external chances
-- Threats: external risks
-
----
-
-## Slide 6: SWOT Questions
-
-### Ask these questions
-
-- What are we good at?
-- Where are we weak?
-- What chances can we use?
-- What risks must we prepare for?
-
-### Reminder
-
-- SWOT is not just a list
-- the goal is strategy
-
-### Figure
+- Strengths and Weaknesses are internal
+- Opportunities and Threats are external
+- use SWOT for strategy, not only listing
 
 ![SWOT Analysis diagram](rendered/the_swot_analysis_p2.png)
 
-*Figure 2. The SWOT framework organizes internal factors and external conditions to support structured situational analysis and strategic choice.*
-
 ---
 
-## Slide 7: SWOT Example
+## Slide 5: SWOT Example
 
 ### Case
 
-A student wants to start an online snack business.
-
-### SWOT summary
-
-- Strengths: social media skills, first customers from friends
-- Weaknesses: limited capital, little inventory experience
-- Opportunities: strong campus demand, easy online ordering
-- Threats: existing competitors, rising ingredient prices
-
-### Decision
-
-- start small
-- focus on a clear niche
-- manage stock carefully
-
-### Application figure
+- student online snack business
+- decide by balancing internal capability and market risks
 
 ![SWOT simple application](application-figures/swot-student-business-application.png)
 
-*Figure 2A. Example application of SWOT analysis to a student snack business, showing how internal capabilities and limitations interact with external opportunities and threats.*
-
 ---
 
-## Slide 8: The BCG Box
+## Slide 6: The BCG Box
 
 ### Core idea
 
-The BCG Box helps evaluate products, services, or projects in one portfolio.
-
-### Two dimensions
-
-- market growth
-- relative market share
-
-### Main purpose
-
-- decide where to invest
-- decide what to maintain
-- decide what to test
-- decide what to stop
-
----
-
-## Slide 9: BCG Categories
-
-### Four boxes
-
-- Stars: high share, high growth
-- Cash Cows: high share, low growth
-- Question Marks: low share, high growth
-- Dogs: low share, low growth
-
-### Usual action
-
-- Stars: invest
-- Cash Cows: maintain and harvest returns
-- Question Marks: analyze carefully
-- Dogs: exit unless there is another reason to keep them
-
-### Figure
+- evaluate portfolio items by growth and relative share
+- choose invest, maintain, test, or stop actions
 
 ![BCG Box diagram](rendered/the_BCG_box_p2.png)
 
-*Figure 3. The BCG Box maps portfolio items according to market growth and relative market share to inform resource allocation decisions.*
-
 ---
 
-## Slide 10: BCG Example
+## Slide 7: BCG Example
 
 ### Case
 
-A school cooperative sells:
-
-- bottled water
-- school hoodies
-- reusable tumblers
-- printed phone charms
-
-### Possible classification
-
-- Star: reusable tumblers
-- Cash Cow: bottled water
-- Question Mark: school hoodies
-- Dog: printed phone charms
-
-### Decision
-
-- invest in tumblers
-- use bottled water for steady income
-- test hoodie potential
-- consider stopping phone charms
-
-### Application figure
+- classify school cooperative products
+- prioritize investment and phase-out decisions
 
 ![BCG simple application](application-figures/bcg-school-coop-application.png)
 
-*Figure 3A. Example application of the BCG Box to a school cooperative product portfolio, positioning each product according to growth potential and relative strength.*
+---
+
+## Slide 8: Feedback Analysis
+
+### Core idea
+
+- compare expected result with actual result
+- learn from gaps and adjust next action
+
+### Steps
+
+1. predict
+2. act
+3. review
+4. improve
 
 ---
 
-## Slide 11: Quick Comparison
+## Slide 9: John Whitmore Model (GROW)
+
+### Core idea
+
+Use a coaching flow for better decisions:
+
+1. Goal
+2. Reality
+3. Options
+4. Will
+
+---
+
+## Slide 10: Project Portfolio Matrix
+
+### Core idea
+
+- compare value and effort
+- prioritize quick wins and major bets
+- defer low-value high-effort projects
+
+---
+
+## Slide 11: Rubber Band Model
+
+### Core idea
+
+- model tension between current state and target state
+- use stretch productively without overstretch
+- include recovery to protect quality
+
+---
+
+## Slide 12: Quick Comparison
 
 | Method | Best for | Main question |
 | --- | --- | --- |
-| Eisenhower Matrix | prioritizing tasks | What should I do now, schedule, delegate, or drop? |
-| SWOT Analysis | understanding a situation | What are our strengths, weaknesses, opportunities, and threats? |
-| BCG Box | evaluating a portfolio | Where should we invest, maintain, test, or exit? |
+| Eisenhower Matrix | prioritizing tasks | What should be done now, scheduled, delegated, or dropped? |
+| SWOT Analysis | understanding context | What are internal and external advantages and risks? |
+| BCG Box | portfolio evaluation | Where should resources be invested, maintained, tested, or reduced? |
+| Feedback Analysis | post-decision learning | What happened vs expectation, and what should change? |
+| John Whitmore Model | coaching and planning | What is the goal, reality, options, and commitment? |
+| Project Portfolio Matrix | project selection | Which projects provide strongest value for feasible effort? |
+| Rubber Band Model | pressure management | How much stretch is productive before quality drops? |
 
 ---
 
-## Slide 12: Class Activity
+## Slide 13: Class Activity
 
 ### Group work
 
-- Group 1: use Eisenhower for student weekly tasks
-- Group 2: use SWOT for a club event or business idea
-- Group 3: use BCG for school products or programs
-
-### Report back
-
-- your classification
-- your recommended action
-- your assumptions
+- Group 1: Eisenhower Matrix
+- Group 2: SWOT Analysis
+- Group 3: BCG Box
+- Group 4: Feedback Analysis
+- Group 5: John Whitmore Model
+- Group 6: Project Portfolio Matrix
+- Group 7: Rubber Band Model
 
 ---
 
-## Slide 13: Closing Message
+## Slide 14: Closing Message
 
-- good decisions need structure
-- these tools make thinking visible
-- better decisions come from clearer analysis
+- practical methods make decision logic visible
+- better choices come from structured analysis
+- review and reflection improve each decision cycle
