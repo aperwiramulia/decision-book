@@ -1,12 +1,12 @@
-# Slide-Ready Notes: Seven Methods
+# Slide-Ready Notes: Eleven Methods
 
-Based on seven methods from *The Decision Book* by Mikael Krogerus and Roman Tschappeler.
+Based on eleven methods from *The Decision Book* by Mikael Krogerus and Roman Tschappeler.
 
 ---
 
 ## Slide 1: Lesson Focus
 
-### Seven decision tools
+### Eleven decision tools
 
 - Eisenhower Matrix
 - SWOT Analysis
@@ -15,6 +15,10 @@ Based on seven methods from *The Decision Book* by Mikael Krogerus and Roman Tsc
 - John Whitmore Model (GROW)
 - Project Portfolio Matrix
 - Rubber Band Model
+- Feedback Box
+- Gap In The Market Model
+- Choice Overload
+- Yes Or No Rule
 
 ---
 
@@ -137,7 +141,63 @@ Use a coaching flow for better decisions:
 
 ---
 
-## Slide 12: Quick Comparison
+## Slide 12: 8. Feedback Box
+
+### Core idea
+
+- sort feedback into practical categories
+- focus on actionable comments first
+
+### Simple application
+
+- class project receives many comments after presentation day
+- prioritize high-impact comments, assign fixes, and defer low-priority suggestions
+
+---
+
+## Slide 13: 9. Gap In The Market Model
+
+### Core idea
+
+- identify unmet needs and weak solution areas
+- decide whether a gap is meaningful and feasible
+
+### Simple application
+
+- student team plans a campus service startup with limited budget
+- target one unmet student pain point with a focused MVP
+
+---
+
+## Slide 14: 10. Choice Overload
+
+### Core idea
+
+- too many options can delay action and reduce confidence
+- narrow options before comparing them in detail
+
+### Simple application
+
+- committee must choose one software platform from many alternatives
+- screen by mandatory criteria, shortlist three options, and decide with weighted scoring
+
+---
+
+## Slide 15: 11. Yes Or No Rule
+
+### Core idea
+
+- convert screening into a binary choice
+- say yes only when all minimum conditions are met
+
+### Simple application
+
+- team evaluates whether to accept a new project request this week
+- accept only if scope clarity, budget fit, and capacity are all available
+
+---
+
+## Slide 16: Quick Comparison
 
 | Method | Best for | Main question |
 | --- | --- | --- |
@@ -148,10 +208,14 @@ Use a coaching flow for better decisions:
 | John Whitmore Model | coaching and planning | What is the goal, reality, options, and commitment? |
 | Project Portfolio Matrix | project selection | Which projects provide strongest value for feasible effort? |
 | Rubber Band Model | pressure management | How much stretch is productive before quality drops? |
+| Feedback Box | feedback structuring | Which feedback is actionable now, later, or not relevant? |
+| Gap In The Market Model | opportunity finding | Where are unmet needs that current offerings do not serve well? |
+| Choice Overload | reducing paralysis | How can we narrow options to a manageable set? |
+| Yes Or No Rule | fast screening | Do minimum criteria pass clearly, or should the option be rejected? |
 
 ---
 
-## Slide 13: Class Activity
+## Slide 17: Class Activity
 
 ### Group work
 
@@ -162,10 +226,14 @@ Use a coaching flow for better decisions:
 - Group 5: John Whitmore Model
 - Group 6: Project Portfolio Matrix
 - Group 7: Rubber Band Model
+- Group 8: Feedback Box
+- Group 9: Gap In The Market Model
+- Group 10: Choice Overload
+- Group 11: Yes Or No Rule
 
 ---
 
-## Slide 14: Closing Message
+## Slide 18: Closing Message
 
 - practical methods make decision logic visible
 - better choices come from structured analysis

@@ -1,6 +1,6 @@
-# Class Notes: Seven Decision-Making Methods
+# Class Notes: Eleven Decision-Making Methods
 
-These notes summarize seven methods from *The Decision Book* as practical classroom material. The goal is to help students make clearer decisions with simple frameworks and applied examples.
+These notes summarize eleven methods from *The Decision Book* as practical classroom material. The goal is to help students make clearer decisions with simple frameworks and applied examples.
 
 ## Learning Goals
 
@@ -196,6 +196,90 @@ The Rubber Band Model views performance as tension between **current state** and
 
 ---
 
+## 8. Feedback Box
+
+### Main idea
+
+The Feedback Box helps organize feedback into practical categories before deciding what to change next.
+
+### How to use it
+
+1. Collect the comments.
+2. Sort them into actionable categories.
+3. Separate urgent fixes from optional ideas.
+4. Decide the next action and owner.
+
+### Simple application
+
+**Situation:** A class project receives many comments after presentation day.
+
+**Decision:** Prioritize high-impact comments first, assign fixes, and defer low-priority suggestions.
+
+---
+
+## 9. Gap In The Market Model
+
+### Main idea
+
+The Gap In The Market Model helps identify unmet needs and opportunities where existing solutions are weak.
+
+### How to use it
+
+1. Observe current solutions.
+2. Identify user pain points.
+3. Find a gap that is meaningful and feasible.
+4. Decide whether the gap supports a new project or product.
+
+### Simple application
+
+**Situation:** A student team plans a campus service startup with limited budget.
+
+**Decision:** Target one unmet student pain point with a focused MVP before scaling features.
+
+---
+
+## 10. Choice Overload
+
+### Main idea
+
+Choice Overload explains why too many options can delay action, increase regret, and reduce confidence.
+
+### How to use it
+
+1. Set clear decision criteria.
+2. Remove options that fail the minimum threshold.
+3. Compare only a short list of strong candidates.
+4. Decide and commit.
+
+### Simple application
+
+**Situation:** A committee must choose one software platform from many alternatives.
+
+**Decision:** Screen by mandatory criteria, shortlist three options, and decide with weighted scoring.
+
+---
+
+## 11. Yes Or No Rule
+
+### Main idea
+
+The Yes Or No Rule converts complex screening into a simple binary choice based on predefined criteria.
+
+### How to use it
+
+1. Define the minimum conditions first.
+2. Check whether all conditions are met.
+3. Say yes only when the standard is clearly satisfied.
+4. Say no when a key condition fails.
+
+### Simple application
+
+**Situation:** A team evaluates whether to accept a new project request this week.
+
+**Decision:** Accept only if scope clarity, budget fit, and capacity are all available.
+
+---
+
 ## Comparison of the Seven Methods
 
 | Method | Best used for | Main question |
@@ -207,10 +291,14 @@ The Rubber Band Model views performance as tension between **current state** and
 | John Whitmore Model (GROW) | coaching and planning | What is the goal, current reality, options, and commitment? |
 | Project Portfolio Matrix | selecting projects under constraints | Which projects offer strongest value for feasible effort? |
 | Rubber Band Model | balancing pressure and resilience | How much stretch is productive before quality declines? |
+| Feedback Box | structuring feedback input | Which feedback is actionable now, later, or not relevant? |
+| Gap In The Market Model | finding strategic opportunities | Where are unmet needs that current offerings do not serve well? |
+| Choice Overload | reducing decision paralysis | How can we narrow options to a manageable set for better commitment? |
+| Yes Or No Rule | fast go/no-go decisions | Do minimum criteria pass clearly, or should the option be rejected? |
 
 ## Classroom Activity
 
-Divide students into seven groups:
+Divide students into eleven groups:
 
 - Group 1: Eisenhower Matrix
 - Group 2: SWOT Analysis
@@ -219,6 +307,10 @@ Divide students into seven groups:
 - Group 5: John Whitmore Model
 - Group 6: Project Portfolio Matrix
 - Group 7: Rubber Band Model
+- Group 8: Feedback Box
+- Group 9: Gap In The Market Model
+- Group 10: Choice Overload
+- Group 11: Yes Or No Rule
 
 Ask each group to present:
 
