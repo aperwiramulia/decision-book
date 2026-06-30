@@ -812,6 +812,18 @@ th {
   font-weight: 800;
 }
 
+.footer__version {
+  display: inline-block;
+  margin-left: 0.45rem;
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(18, 60, 76, 0.15);
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--accent-strong);
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
 [data-reveal] {
   opacity: 0;
   transform: translateY(28px);
