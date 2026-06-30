@@ -44,7 +44,7 @@
             <span>Core methods</span>
           </article>
           <article class="metric-card">
-            <strong>07</strong>
+            <strong>12</strong>
             <span>Method handouts</span>
           </article>
           <article class="metric-card">
@@ -570,36 +570,117 @@
         <p class="eyebrow">Materials</p>
         <h2>Download and reuse the lecture files</h2>
         <p class="section__lede">Use the full note for independent study, the slide-ready version for presentation, and the source file for future revision.</p>
+        <div class="download-tools">
+          <div class="download-search-row">
+            <input
+              class="download-search"
+              id="downloadSearch"
+              type="search"
+              placeholder="Search files: swot, portfolio, feedback..."
+              aria-label="Search download files"
+              autocomplete="off"
+            >
+            <button class="download-clear" id="downloadClear" type="button">Clear</button>
+          </div>
+          <div class="download-chip-row" aria-label="Quick filters">
+            <button class="download-chip is-active" type="button" data-filter-chip="">All</button>
+            <button class="download-chip" type="button" data-filter-chip="feedback">Feedback</button>
+            <button class="download-chip" type="button" data-filter-chip="portfolio">Portfolio</button>
+            <button class="download-chip" type="button" data-filter-chip="swot">SWOT</button>
+            <button class="download-chip" type="button" data-filter-chip="example">Example</button>
+          </div>
+          <p class="download-toast" id="downloadToast" role="status" aria-live="polite"></p>
+          <p class="download-search__hint">Type a keyword to filter files instantly.</p>
+          <p class="download-empty" id="downloadEmpty" hidden>No files match this keyword. Try another term.</p>
+        </div>
       </div>
-      <div class="download-grid">
-        <a class="download-card" href="class-notes-seven-methods-updated.pdf">
-          <strong>Lecture Note PDF</strong>
-          <span>Full note with method figures and application figures.</span>
-        </a>
-        <a class="download-card" href="class-notes-seven-methods-slide-ready.pdf">
-          <strong>Slide-Ready PDF</strong>
-          <span>Shorter teaching version for presentation use.</span>
-        </a>
-        <a class="download-card" href="class-notes-seven-methods.md">
-          <strong>Markdown Source</strong>
-          <span>Editable source for the complete lecture note.</span>
-        </a>
-        <a class="download-card" href="THE FEEDBACK ANALYSIS.pdf">
-          <strong>Feedback Analysis PDF</strong>
-          <span>Additional decision method handout for reflection-based improvement.</span>
-        </a>
-        <a class="download-card" href="THE JOHN WHITMORE MODEL.pdf">
-          <strong>John Whitmore Model PDF</strong>
-          <span>GROW framework handout for coaching and action planning.</span>
-        </a>
-        <a class="download-card" href="THE PROJECT PORTOFOLIO MATRIX.pdf">
-          <strong>Project Portfolio Matrix PDF</strong>
-          <span>Prioritization handout for selecting projects by value and effort.</span>
-        </a>
-        <a class="download-card" href="THE RUBBER BAND MODEL.pdf">
-          <strong>Rubber Band Model PDF</strong>
-          <span>Performance-pressure handout for balancing stretch and recovery.</span>
-        </a>
+      <div class="download-groups">
+        <section class="download-group">
+          <div class="download-group__header">
+            <h3>Core Course Files</h3>
+            <span class="download-group__count">7 files</span>
+          </div>
+          <div class="download-grid">
+            <a class="download-card" href="class-notes-seven-methods-updated.pdf">
+              <strong>Lecture Note PDF</strong>
+              <span>Full note with method figures and application figures.</span>
+            </a>
+            <a class="download-card" href="class-notes-seven-methods-slide-ready.pdf">
+              <strong>Slide-Ready PDF</strong>
+              <span>Shorter teaching version for presentation use.</span>
+            </a>
+            <a class="download-card" href="class-notes-seven-methods.md">
+              <strong>Markdown Source</strong>
+              <span>Editable source for the complete lecture note.</span>
+            </a>
+            <a class="download-card" href="THE FEEDBACK ANALYSIS.pdf">
+              <strong>Feedback Analysis PDF</strong>
+              <span>Additional decision method handout for reflection-based improvement.</span>
+            </a>
+            <a class="download-card" href="THE JOHN WHITMORE MODEL.pdf">
+              <strong>John Whitmore Model PDF</strong>
+              <span>GROW framework handout for coaching and action planning.</span>
+            </a>
+            <a class="download-card" href="THE PROJECT PORTOFOLIO MATRIX.pdf">
+              <strong>Project Portfolio Matrix PDF</strong>
+              <span>Prioritization handout for selecting projects by value and effort.</span>
+            </a>
+            <a class="download-card" href="THE RUBBER BAND MODEL.pdf">
+              <strong>Rubber Band Model PDF</strong>
+              <span>Performance-pressure handout for balancing stretch and recovery.</span>
+            </a>
+          </div>
+        </section>
+
+        <section class="download-group">
+          <div class="download-group__header">
+            <h3>Additional Methods Library</h3>
+            <span class="download-group__count">4 files</span>
+          </div>
+          <div class="download-grid">
+            <a class="download-card" href="THE FEEDBACK BOX.pdf">
+              <strong>Feedback Box PDF</strong>
+              <span>Companion framework for structured reflection and follow-up action.</span>
+            </a>
+            <a class="download-card" href="THE GAP IN THE MARKET MODEL.pdf">
+              <strong>Gap In The Market Model PDF</strong>
+              <span>Handout for identifying unmet needs and positioning responses.</span>
+            </a>
+            <a class="download-card" href="THE CHOICE OVERLOAD.pdf">
+              <strong>Choice Overload PDF</strong>
+              <span>Decision behavior handout on reducing paralysis from too many options.</span>
+            </a>
+            <a class="download-card" href="YES OR NO RULE.pdf">
+              <strong>Yes Or No Rule PDF</strong>
+              <span>Simple binary decision aid for fast screening and commitment checks.</span>
+            </a>
+          </div>
+        </section>
+
+        <section class="download-group">
+          <div class="download-group__header">
+            <h3>Worked and Source Examples</h3>
+            <span class="download-group__count">4 files</span>
+          </div>
+          <div class="download-grid">
+            <a class="download-card" href="THE PROJECT PORTOFOLIOMATRIX example.pdf">
+              <strong>Project Portfolio Matrix Example PDF</strong>
+              <span>Worked example to demonstrate matrix scoring and prioritization.</span>
+            </a>
+            <a class="download-card" href="the BCG box.pdf">
+              <strong>BCG Box (Source PDF)</strong>
+              <span>Standalone source handout for BCG matrix explanation.</span>
+            </a>
+            <a class="download-card" href="the einshower matrix.pdf">
+              <strong>Eisenhower Matrix (Source PDF)</strong>
+              <span>Standalone source handout for urgency-importance prioritization.</span>
+            </a>
+            <a class="download-card" href="the swot analysis.pdf">
+              <strong>SWOT Analysis (Source PDF)</strong>
+              <span>Standalone source handout for internal and external factor mapping.</span>
+            </a>
+          </div>
+        </section>
       </div>
     </section>
   </main>
