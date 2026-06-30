@@ -582,6 +582,22 @@ table {
   background: #9c4a6d;
 }
 
+.method-card--feedback-box .method-card__number {
+  background: #72543f;
+}
+
+.method-card--gap .method-card__number {
+  background: #2e5c93;
+}
+
+.method-card--choice .method-card__number {
+  background: #7b6a2a;
+}
+
+.method-card--yesno .method-card__number {
+  background: #2b5f56;
+}
+
 .method-card__tagline {
   margin-top: 0.3rem;
   color: var(--muted);
