@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+  <title id="title">Gap In The Market competitor map</title>
+  <desc id="desc">A 3D-style market map plotting cafe competitors by price, passing trade, and popularity.</desc>
+  <defs>
+    <style>
+      .axis { stroke: #1e2a33; stroke-width: 4; fill: none; }
+      .grid { stroke: #6b7782; stroke-width: 1.4; fill: none; }
+      .label { font-family: Arial, sans-serif; fill: #1f2a33; font-weight: 700; }
+      .axis-label { font-size: 34px; }
+      .tick { font-size: 24px; }
+      .brand { fill: #111; }
+      .brand-text { font-family: Arial, sans-serif; fill: #fff; font-size: 22px; font-weight: 700; }
+      .line { stroke: #1f2a33; stroke-width: 3; }
+      .caption { font-family: Arial, sans-serif; fill: #1f2a33; font-size: 30px; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1f2a33" />
+    </marker>
+  </defs>
+
+  <rect x="20" y="20" width="1160" height="800" fill="#f7f7f6" stroke="#d7dce0" stroke-width="2" />
+
+  <!-- 3D plane -->
+  <polygon points="230,630 690,630 930,470 470,470" fill="#f5f5f4" stroke="#1f2a33" stroke-width="3" />
+  <polygon points="230,200 690,200 690,630 230,630" fill="#fbfbfa" stroke="#1f2a33" stroke-width="3" />
+  <polygon points="690,200 930,40 930,470 690,630" fill="#f1f1ef" stroke="#1f2a33" stroke-width="3" />
+
+  <!-- front grid -->
+  <path class="grid" d="M276 200 V630 M322 200 V630 M368 200 V630 M414 200 V630 M460 200 V630 M506 200 V630 M552 200 V630 M598 200 V630 M644 200 V630"/>
+  <path class="grid" d="M230 243 H690 M230 286 H690 M230 329 H690 M230 372 H690 M230 415 H690 M230 458 H690 M230 501 H690 M230 544 H690 M230 587 H690"/>
+
+  <!-- top grid -->
+  <path class="grid" d="M230 630 L470 470 M276 630 L516 470 M322 630 L562 470 M368 630 L608 470 M414 630 L654 470 M460 630 L700 470 M506 630 L746 470 M552 630 L792 470 M598 630 L838 470 M644 630 L884 470 M690 630 L930 470"/>
+  <path class="grid" d="M230 630 L690 630 M254 614 L714 614 M278 598 L738 598 M302 582 L762 582 M326 566 L786 566 M350 550 L810 550 M374 534 L834 534 M398 518 L858 518 M422 502 L882 502 M446 486 L906 486 M470 470 L930 470"/>
+
+  <!-- axes -->
+  <path class="axis" d="M190 630 H710" marker-end="url(#arrow)" />
+  <path class="axis" d="M230 650 L470 490" marker-end="url(#arrow)" />
+  <path class="axis" d="M200 630 V170" marker-end="url(#arrow)" />
+
+  <text class="label axis-label" x="390" y="695">PASSING TRADE</text>
+  <text class="label axis-label" x="490" y="530" transform="rotate(-33, 490, 530)">POPULARITY</text>
+  <text class="label axis-label" x="145" y="470" transform="rotate(-90, 145, 470)">PRICE</text>
+
+  <!-- tick labels -->
+  <text class="label tick" x="235" y="665">2</text>
+  <text class="label tick" x="325" y="665">4</text>
+  <text class="label tick" x="415" y="665">6</text>
+  <text class="label tick" x="505" y="665">8</text>
+  <text class="label tick" x="595" y="665">10</text>
+
+  <text class="label tick" x="474" y="492">2</text>
+  <text class="label tick" x="548" y="442">4</text>
+  <text class="label tick" x="622" y="393">6</text>
+  <text class="label tick" x="696" y="344">8</text>
+  <text class="label tick" x="770" y="294">10</text>
+
+  <text class="label tick" x="168" y="602">0</text>
+  <text class="label tick" x="168" y="516">2</text>
+  <text class="label tick" x="168" y="430">4</text>
+  <text class="label tick" x="168" y="344">6</text>
+  <text class="label tick" x="168" y="258">8</text>
+  <text class="label tick" x="160" y="202">10</text>
+
+  <!-- competitor markers -->
+  <line class="line" x1="300" y1="630" x2="300" y2="350"/>
+  <rect class="brand" x="246" y="294" width="112" height="60"/>
+  <text class="brand-text" x="302" y="319" text-anchor="middle">HEART COFFEE</text>
+  <text class="brand-text" x="302" y="343" text-anchor="middle">ROASTERS PORTLAND</text>
+
+  <line class="line" x1="395" y1="630" x2="395" y2="300"/>
+  <rect class="brand" x="338" y="245" width="114" height="56"/>
+  <text class="brand-text" x="395" y="278" text-anchor="middle">VIENNESE</text>
+  <text class="brand-text" x="395" y="299" text-anchor="middle">CAFE</text>
+
+  <line class="line" x1="525" y1="560" x2="525" y2="420"/>
+  <rect class="brand" x="478" y="364" width="94" height="54"/>
+  <text class="brand-text" x="525" y="397" text-anchor="middle">McCAFE</text>
+
+  <line class="line" x1="610" y1="510" x2="610" y2="470"/>
+  <rect class="brand" x="565" y="412" width="92" height="54"/>
+  <text class="brand-text" x="611" y="444" text-anchor="middle">STARBUCKS</text>
+
+  <line class="line" x1="705" y1="560" x2="705" y2="500"/>
+  <rect class="brand" x="650" y="444" width="112" height="54"/>
+  <text class="brand-text" x="706" y="476" text-anchor="middle">COFFEE TRUCK</text>
+
+  <text class="caption" x="120" y="780">This model helps identify market-position gaps according to price, passing trade, and popularity.</text>
+</svg>
