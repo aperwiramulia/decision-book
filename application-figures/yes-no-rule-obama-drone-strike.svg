@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">Yes or No Rule flowchart</title>
+  <desc id="desc">Flowchart showing a binary decision process: if the target poses a persistent and immediate threat, can only we deal with it, and nobody else will be hurt in a strike, then attack. Otherwise do not attack.</desc>
+  <defs>
+    <style>
+      .box { fill: #dfe4e8; stroke: #51626e; stroke-width: 3; rx: 10; }
+      .label { font-family: Arial, sans-serif; font-size: 34px; fill: #1d2a33; font-weight: 700; }
+      .small { font-family: Arial, sans-serif; font-size: 28px; fill: #1d2a33; font-weight: 700; }
+      .tag { fill: #4d5963; }
+      .tag-text { font-family: Arial, sans-serif; font-size: 22px; fill: #ffffff; font-weight: 700; }
+      .line { stroke: #1f2b34; stroke-width: 4; fill: none; }
+      .caption { font-family: Arial, sans-serif; font-size: 30px; fill: #26343f; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1f2b34" />
+    </marker>
+  </defs>
+
+  <rect x="20" y="20" width="1160" height="740" fill="#f8f8f7" stroke="#d7dce0" stroke-width="2" />
+
+  <rect class="box" x="70" y="130" width="360" height="150" />
+  <text class="small" x="250" y="190" text-anchor="middle">Does the target pose a</text>
+  <text class="small" x="250" y="232" text-anchor="middle">persistent immediate</text>
+  <text class="small" x="250" y="274" text-anchor="middle">threat?</text>
+
+  <rect class="box" x="500" y="130" width="360" height="150" />
+  <text class="small" x="680" y="190" text-anchor="middle">Are we the only ones that can</text>
+  <text class="small" x="680" y="232" text-anchor="middle">deal with it?</text>
+
+  <rect class="box" x="500" y="360" width="360" height="160" />
+  <text class="small" x="680" y="430" text-anchor="middle">Will nobody else be hurt</text>
+  <text class="small" x="680" y="472" text-anchor="middle">in a strike?</text>
+
+  <rect class="box" x="80" y="390" width="300" height="120" />
+  <text class="label" x="230" y="465" text-anchor="middle">DON'T ATTACK</text>
+
+  <polygon points="970,455 1015,385 1095,385 1140,455 1095,525 1015,525" fill="#2f3f4a" stroke="#1a252c" stroke-width="3" />
+  <text class="label" x="1055" y="468" text-anchor="middle" fill="#ffffff">ATTACK!</text>
+
+  <path class="line" d="M430 205 H500" marker-end="url(#arrow)" />
+  <rect class="tag" x="452" y="165" width="52" height="38" rx="6" />
+  <text class="tag-text" x="478" y="191" text-anchor="middle">Yes</text>
+
+  <path class="line" d="M250 280 V390" marker-end="url(#arrow)" />
+  <rect class="tag" x="272" y="322" width="46" height="38" rx="6" />
+  <text class="tag-text" x="295" y="348" text-anchor="middle">No</text>
+
+  <path class="line" d="M680 280 V360" marker-end="url(#arrow)" />
+  <rect class="tag" x="708" y="304" width="52" height="38" rx="6" />
+  <text class="tag-text" x="734" y="330" text-anchor="middle">Yes</text>
+
+  <path class="line" d="M500 440 H380" marker-end="url(#arrow)" />
+  <rect class="tag" x="430" y="402" width="46" height="38" rx="6" />
+  <text class="tag-text" x="453" y="428" text-anchor="middle">No</text>
+
+  <path class="line" d="M860 440 H970" marker-end="url(#arrow)" />
+  <rect class="tag" x="885" y="402" width="52" height="38" rx="6" />
+  <text class="tag-text" x="911" y="428" text-anchor="middle">Yes</text>
+
+  <text class="caption" x="600" y="680" text-anchor="middle">The formula used by former US president Barack Obama</text>
+  <text class="caption" x="600" y="718" text-anchor="middle">to decide for or against a drone strike.</text>
+</svg>
