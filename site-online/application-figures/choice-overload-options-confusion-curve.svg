@@ -7,9 +7,9 @@
       .curve { stroke: #121a21; stroke-width: 5; fill: none; }
       .guide { stroke: #7b8791; stroke-width: 2; stroke-dasharray: 5 8; }
       .label { font-family: Arial, sans-serif; fill: #1f2a33; font-weight: 700; }
-      .small { font-size: 34px; }
+      .small { font-size: 28px; }
       .mid { font-size: 36px; }
-      .axis-title { font-size: 42px; }
+      .axis-title { font-size: 38px; }
     </style>
     <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
       <path d="M0,0 L12,6 L0,12 z" fill="#1f2a33"/>
@@ -27,11 +27,11 @@
   <path class="curve" d="M180 520 C 300 520, 380 420, 470 350 C 570 270, 660 250, 760 330 C 850 400, 930 520, 1030 520"/>
 
   <text class="label axis-title" x="32" y="380" transform="rotate(-90, 32, 380)">CONFUSION</text>
-  <text class="label axis-title" x="500" y="708">NUMBER OF OPTIONS</text>
+  <text class="label axis-title" x="465" y="688">NUMBER OF OPTIONS</text>
 
   <text class="label mid" x="220" y="658">TOO FEW OPTIONS</text>
   <text class="label mid" x="785" y="658">TOO MANY OPTIONS</text>
 
-  <text class="label small" x="80" y="710">Having no options makes us unhappy.</text>
-  <text class="label small" x="640" y="710">So does having too many options.</text>
+  <text class="label small" x="80" y="736">Having no options makes us unhappy.</text>
+  <text class="label small" x="640" y="736">So does having too many options.</text>
 </svg>
