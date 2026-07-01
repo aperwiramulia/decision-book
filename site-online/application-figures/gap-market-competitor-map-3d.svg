@@ -49,11 +49,11 @@
   <text class="label tick" x="505" y="665">8</text>
   <text class="label tick" x="595" y="665">10</text>
 
-  <text class="label tick" x="474" y="492">2</text>
-  <text class="label tick" x="548" y="442">4</text>
-  <text class="label tick" x="622" y="393">6</text>
-  <text class="label tick" x="696" y="344">8</text>
-  <text class="label tick" x="770" y="294">10</text>
+  <text class="label tick" x="438" y="516">2</text>
+  <text class="label tick" x="390" y="548">4</text>
+  <text class="label tick" x="342" y="580">6</text>
+  <text class="label tick" x="294" y="612">8</text>
+  <text class="label tick" x="246" y="644">10</text>
 
   <text class="label tick" x="168" y="602">0</text>
   <text class="label tick" x="168" y="516">2</text>
