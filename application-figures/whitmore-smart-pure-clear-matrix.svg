@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">SMART PURE CLEAR Matrix</title>
+  <desc id="desc">A goal-check matrix showing SMART, PURE, and CLEAR criteria for coaching and decision planning.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f8f7; stroke: #d5dce1; stroke-width: 2; }
+      .head { fill: #ccd3d7; }
+      .cell { fill: #d9dfe2; }
+      .letter { fill: #f1f4f6; }
+      .txt { font-family: Arial, sans-serif; fill: #121c24; font-weight: 700; }
+      .h { font-size: 34px; }
+      .c { font-size: 30px; }
+      .l { font-size: 34px; }
+      .note { font-family: Arial, sans-serif; fill: #1f2a33; font-size: 30px; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="20" y="20" width="1160" height="820"/>
+
+  <!-- SMART column -->
+  <rect class="head" x="80" y="120" width="250" height="90"/>
+  <text class="txt h" x="205" y="176" text-anchor="middle">SMART</text>
+  <rect class="letter" x="80" y="210" width="70" height="110"/>
+  <rect class="cell" x="150" y="210" width="180" height="110"/>
+  <text class="txt l" x="115" y="278" text-anchor="middle">S</text>
+  <text class="txt c" x="240" y="278" text-anchor="middle">SPECIFIC</text>
+
+  <rect class="letter" x="80" y="320" width="70" height="110"/>
+  <rect class="cell" x="150" y="320" width="180" height="110"/>
+  <text class="txt l" x="115" y="388" text-anchor="middle">M</text>
+  <text class="txt c" x="240" y="388" text-anchor="middle">MEASURABLE</text>
+
+  <rect class="letter" x="80" y="430" width="70" height="110"/>
+  <rect class="cell" x="150" y="430" width="180" height="110"/>
+  <text class="txt l" x="115" y="498" text-anchor="middle">A</text>
+  <text class="txt c" x="240" y="498" text-anchor="middle">ATTAINABLE</text>
+
+  <rect class="letter" x="80" y="540" width="70" height="110"/>
+  <rect class="cell" x="150" y="540" width="180" height="110"/>
+  <text class="txt l" x="115" y="608" text-anchor="middle">R</text>
+  <text class="txt c" x="240" y="608" text-anchor="middle">REALISTIC</text>
+
+  <rect class="letter" x="80" y="650" width="70" height="110"/>
+  <rect class="cell" x="150" y="650" width="180" height="110"/>
+  <text class="txt l" x="115" y="718" text-anchor="middle">T</text>
+  <text class="txt c" x="240" y="718" text-anchor="middle">TIME-PHASED</text>
+
+  <!-- PURE column -->
+  <rect class="head" x="430" y="120" width="250" height="90"/>
+  <text class="txt h" x="555" y="176" text-anchor="middle">THE RIGHT GOAL</text>
+  <rect class="letter" x="430" y="210" width="70" height="137"/>
+  <rect class="cell" x="500" y="210" width="180" height="137"/>
+  <text class="txt l" x="465" y="292" text-anchor="middle">P</text>
+  <text class="txt c" x="590" y="292" text-anchor="middle">POSITIVELY STATED</text>
+
+  <rect class="letter" x="430" y="347" width="70" height="137"/>
+  <rect class="cell" x="500" y="347" width="180" height="137"/>
+  <text class="txt l" x="465" y="429" text-anchor="middle">U</text>
+  <text class="txt c" x="590" y="429" text-anchor="middle">UNDERSTOOD</text>
+
+  <rect class="letter" x="430" y="484" width="70" height="137"/>
+  <rect class="cell" x="500" y="484" width="180" height="137"/>
+  <text class="txt l" x="465" y="566" text-anchor="middle">R</text>
+  <text class="txt c" x="590" y="566" text-anchor="middle">RELEVANT</text>
+
+  <rect class="letter" x="430" y="621" width="70" height="139"/>
+  <rect class="cell" x="500" y="621" width="180" height="139"/>
+  <text class="txt l" x="465" y="704" text-anchor="middle">E</text>
+  <text class="txt c" x="590" y="704" text-anchor="middle">ETHICAL</text>
+
+  <!-- CLEAR column -->
+  <rect class="head" x="780" y="120" width="250" height="90"/>
+  <text class="txt h" x="905" y="176" text-anchor="middle">CLEAR</text>
+
+  <rect class="letter" x="780" y="210" width="70" height="110"/>
+  <rect class="cell" x="850" y="210" width="180" height="110"/>
+  <text class="txt l" x="815" y="278" text-anchor="middle">C</text>
+  <text class="txt c" x="940" y="278" text-anchor="middle">CHALLENGING</text>
+
+  <rect class="letter" x="780" y="320" width="70" height="110"/>
+  <rect class="cell" x="850" y="320" width="180" height="110"/>
+  <text class="txt l" x="815" y="388" text-anchor="middle">L</text>
+  <text class="txt c" x="940" y="388" text-anchor="middle">LEGAL</text>
+
+  <rect class="letter" x="780" y="430" width="70" height="110"/>
+  <rect class="cell" x="850" y="430" width="180" height="110"/>
+  <text class="txt l" x="815" y="498" text-anchor="middle">E</text>
+  <text class="txt c" x="940" y="498" text-anchor="middle">ENVIRONMENTALLY SOUND</text>
+
+  <rect class="letter" x="780" y="540" width="70" height="110"/>
+  <rect class="cell" x="850" y="540" width="180" height="110"/>
+  <text class="txt l" x="815" y="608" text-anchor="middle">A</text>
+  <text class="txt c" x="940" y="608" text-anchor="middle">AGREED</text>
+
+  <rect class="letter" x="780" y="650" width="70" height="110"/>
+  <rect class="cell" x="850" y="650" width="180" height="110"/>
+  <text class="txt l" x="815" y="718" text-anchor="middle">R</text>
+  <text class="txt c" x="940" y="718" text-anchor="middle">RECORDED</text>
+
+  <text class="note" x="80" y="808">Once you have established a goal, check whether it correlates with these fourteen requirements.</text>
+</svg>
