@@ -18,15 +18,15 @@
 
   <rect x="20" y="20" width="1160" height="720" fill="#f7f7f5" stroke="#d7dce0" stroke-width="2"/>
 
-  <path class="axis" d="M130 620 H1080" marker-end="url(#arrow)"/>
-  <path class="axis" d="M130 620 V90" marker-end="url(#arrow)"/>
+  <path class="axis" d="M130 570 H1080" marker-end="url(#arrow)"/>
+  <path class="axis" d="M130 570 V90" marker-end="url(#arrow)"/>
 
-  <path class="guide" d="M470 620 V120"/>
-  <path class="guide" d="M770 620 V120"/>
+  <path class="guide" d="M470 570 V120"/>
+  <path class="guide" d="M770 570 V120"/>
 
-  <path class="curve" d="M180 520 C 300 520, 380 420, 470 350 C 570 270, 660 250, 760 330 C 850 400, 930 520, 1030 520"/>
+  <path class="curve" d="M180 470 C 300 470, 380 370, 470 300 C 570 220, 660 200, 760 280 C 850 350, 930 470, 1030 470"/>
 
-  <text class="label axis-title" x="32" y="380" transform="rotate(-90, 32, 380)">CONFUSION</text>
+  <text class="label axis-title" x="32" y="350" transform="rotate(-90, 32, 350)">CONFUSION</text>
   <text class="label axis-title" x="465" y="688">NUMBER OF OPTIONS</text>
 
   <text class="label mid" x="220" y="658">TOO FEW OPTIONS</text>
