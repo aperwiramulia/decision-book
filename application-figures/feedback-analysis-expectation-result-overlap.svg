@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Expectation and Result Overlap</title>
+  <desc id="desc">Feedback Analysis visual with two overlapping circles labeled expectation and result, with an arrow to the overlap area.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f8f7; stroke: #d6dde2; stroke-width: 2; }
+      .ring { fill: #a9b5b8; stroke: #f5f7f8; stroke-width: 16; }
+      .overlap { fill: #8a969b; opacity: 0.75; }
+      .txt { font-family: Arial, sans-serif; fill: #1f2a33; font-weight: 700; }
+      .main { font-size: 46px; }
+      .note { font-size: 34px; }
+      .arrow { stroke: #1f2a33; stroke-width: 4; fill: none; }
+      .callout { fill: #cfd6da; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1f2a33"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="20" y="20" width="1160" height="780"/>
+
+  <circle class="ring" cx="500" cy="520" r="180"/>
+  <circle class="ring" cx="700" cy="520" r="180"/>
+
+  <!-- overlap lens -->
+  <path class="overlap" d="M600 390 C655 430,655 610,600 650 C545 610,545 430,600 390 Z"/>
+
+  <text class="txt main" x="500" y="530" text-anchor="middle" transform="rotate(-90, 500, 530)">EXPECTATION</text>
+  <text class="txt main" x="700" y="530" text-anchor="middle" transform="rotate(-90, 700, 530)">RESULT</text>
+
+  <rect class="callout" x="760" y="130" width="300" height="130"/>
+  <text class="txt note" x="910" y="182" text-anchor="middle">The bigger the overlap,</text>
+  <text class="txt note" x="910" y="226" text-anchor="middle">the better you are at evaluating</text>
+  <text class="txt note" x="910" y="268" text-anchor="middle">your work.</text>
+
+  <path class="arrow" d="M760 250 L615 470" marker-end="url(#arrow)"/>
+</svg>
